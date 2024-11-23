@@ -2520,12 +2520,12 @@ DTSTART;VALUE=DATE:20241123
 DTSTAMP;VALUE=DATE:20241123
 UID:389156-9-ethereal
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n15世纪的欧洲某国。在跳级中被允许进
- 入大学的神童拉法尔。他回应了周围的期待，宣布将专
- 攻当时最重要的神学。但是，从以前开始就热心投入的
- 对天文的热情一直没有被抛弃。\n有一天，他遇到了一位
- 名叫休伯特的神秘学者。因为触犯了基于异端思想的禁
- 忌而受到
+DESCRIPTION:「必然是因为你已有所知」\n\n\n15世纪的欧洲某
+ 国。在跳级中被允许进入大学的神童拉法尔。他回应了
+ 周围的期待，宣布将专攻当时最重要的神学。但是，从
+ 以前开始就热心投入的对天文的热情一直没有被抛弃。\n
+ 有一天，他遇到了一位名叫休伯特的神秘学者。因为触
+ 犯了基于异端思想的禁忌而受到
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2874,11 +2874,11 @@ DTSTART;VALUE=DATE:20241130
 DTSTAMP;VALUE=DATE:20241123
 UID:425991-8-ethereal
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n統合暦2099年――新宿市。\n究極の発
- 展を遂げた未来都市に、伝説の魔王・ベルトールは再
- 臨した。\n巨大都市国家の輝かしい繁栄と……その裏に
- 隠された凄惨な“闇”。\n新たな世界を支配すべく、魔
- 王は未来を躍動する！
+DESCRIPTION:「电脑魔导都市·秋叶原」\n\n\n統合暦2099年―
+ ―新宿市。\n究極の発展を遂げた未来都市に、伝説の魔
+ 王・ベルトールは再臨した。\n巨大都市国家の輝かしい
+ 繁栄と……その裏に隠された凄惨な“闇”。\n新たな世
+ 界を支配すべく、魔王は未来を躍動する！
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3042,9 +3042,10 @@ DTSTART;VALUE=DATE:20241130
 DTSTAMP;VALUE=DATE:20241123
 UID:457326-9-ethereal
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nまさしく「最終決戦」にふさわしい
- 実力派スタッフ陣で挑む、ファイナル・シリーズ。\nは
- たして、黒崎一護が\nたどり着くのは――。
+DESCRIPTION:「不要追逐影子」\n\n\nまさしく「最終決戦」
+ にふさわしい実力派スタッフ陣で挑む、ファイナル・
+ シリーズ。\nはたして、黒崎一護が\nたどり着くのは―
+ ―。
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
