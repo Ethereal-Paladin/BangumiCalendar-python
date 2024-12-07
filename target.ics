@@ -2559,12 +2559,12 @@ DTSTART;VALUE=DATE:20241207
 DTSTAMP;VALUE=DATE:20241207
 UID:389156-11-ethereal
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n15世纪的欧洲某国。在跳级中被允许进
- 入大学的神童拉法尔。他回应了周围的期待，宣布将专
- 攻当时最重要的神学。但是，从以前开始就热心投入的
- 对天文的热情一直没有被抛弃。\n有一天，他遇到了一位
- 名叫休伯特的神秘学者。因为触犯了基于异端思想的禁
- 忌而受到
+DESCRIPTION:「「血」」\n\n\n15世纪的欧洲某国。在跳级中被
+ 允许进入大学的神童拉法尔。他回应了周围的期待，宣
+ 布将专攻当时最重要的神学。但是，从以前开始就热心
+ 投入的对天文的热情一直没有被抛弃。\n有一天，他遇到
+ 了一位名叫休伯特的神秘学者。因为触犯了基于异端思
+ 想的禁忌而受到
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2911,11 +2911,11 @@ DTSTART;VALUE=DATE:20241214
 DTSTAMP;VALUE=DATE:20241207
 UID:425991-10-ethereal
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n統合暦2099年――新宿市。\n究極の発
- 展を遂げた未来都市に、伝説の魔王・ベルトールは再
- 臨した。\n巨大都市国家の輝かしい繁栄と……その裏に
- 隠された凄惨な“闇”。\n新たな世界を支配すべく、魔
- 王は未来を躍動する！
+DESCRIPTION:「秋叶原三大家族」\n\n\n統合暦2099年――新宿
+ 市。\n究極の発展を遂げた未来都市に、伝説の魔王・ベ
+ ルトールは再臨した。\n巨大都市国家の輝かしい繁栄と
+ ……その裏に隠された凄惨な“闇”。\n新たな世界を支
+ 配すべく、魔王は未来を躍動する！
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3064,10 +3064,10 @@ DTSTART;VALUE=DATE:20241207
 DTSTAMP;VALUE=DATE:20241207
 UID:457326-10-ethereal
 CLASS:PUBLIC
-DESCRIPTION:「宝贝，握紧你的手2」\n\n\nまさしく「最終決
- 戦」にふさわしい実力派スタッフ陣で挑む、ファイナ
- ル・シリーズ。\nはたして、黒崎一護が\nたどり着くの
- は――。
+DESCRIPTION:「宝贝，握紧你的手 2 [永无止尽的梦]」\n\n\nま
+ さしく「最終決戦」にふさわしい実力派スタッフ陣で
+ 挑む、ファイナル・シリーズ。\nはたして、黒崎一護が
+ \nたどり着くのは――。
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3077,9 +3077,9 @@ DTSTART;VALUE=DATE:20241214
 DTSTAMP;VALUE=DATE:20241207
 UID:457326-11-ethereal
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nまさしく「最終決戦」にふさわしい
- 実力派スタッフ陣で挑む、ファイナル・シリーズ。\nは
- たして、黒崎一護が\nたどり着くのは――。
+DESCRIPTION:「影子消失」\n\n\nまさしく「最終決戦」にふ
+ さわしい実力派スタッフ陣で挑む、ファイナル・シリ
+ ーズ。\nはたして、黒崎一護が\nたどり着くのは――。
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
