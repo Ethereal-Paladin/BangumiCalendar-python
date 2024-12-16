@@ -1080,6 +1080,30 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:死神 千年血战篇-相克谭- 13
+DTSTART;VALUE=DATE:20241228
+DTSTAMP;VALUE=DATE:20241216
+UID:457326-13-ethereal
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nまさしく「最終決戦」にふさわしい
+ 実力派スタッフ陣で挑む、ファイナル・シリーズ。\nは
+ たして、黒崎一護が\nたどり着くのは――。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:死神 千年血战篇-相克谭- 14
+DTSTART;VALUE=DATE:20241228
+DTSTAMP;VALUE=DATE:20241216
+UID:457326-14-ethereal
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nまさしく「最終決戦」にふさわしい
+ 実力派スタッフ陣で挑む、ファイナル・シリーズ。\nは
+ たして、黒崎一護が\nたどり着くのは――。
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:青之箱 1
 DTSTART;VALUE=DATE:20241003
 DTSTAMP;VALUE=DATE:20241216
@@ -2722,11 +2746,12 @@ DTSTART;VALUE=DATE:20241216
 DTSTAMP;VALUE=DATE:20241216
 UID:443676-11-ethereal
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n心優しき友人たちとの、大切な日々
- ──\n美しく儚き、人と妖の物語。\n\n小さい頃から妖
- 怪を見ることができた少年・夏目貴志は、\n祖母レイコ
- の遺産「友人帳」を受け継ぎ、\n自称用心棒のニャンコ
- 先生と共に、\nそこに名を縛られた妖怪たちに名を
+DESCRIPTION:「告诉我你的名字」\n\n\n心優しき友人たちと
+ の、大切な日々──\n美しく儚き、人と妖の物語。\n\n
+ 小さい頃から妖怪を見ることができた少年・夏目貴志
+ は、\n祖母レイコの遺産「友人帳」を受け継ぎ、\n自称
+ 用心棒のニャンコ先生と共に、\nそこに名を縛られた妖
+ 怪たちに名を
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
