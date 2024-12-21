@@ -1315,11 +1315,11 @@ DTSTART;VALUE=DATE:20241228
 DTSTAMP;VALUE=DATE:20241221
 UID:425991-12-ethereal
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n統合暦2099年――新宿市。\n究極の発
- 展を遂げた未来都市に、伝説の魔王・ベルトールは再
- 臨した。\n巨大都市国家の輝かしい繁栄と……その裏に
- 隠された凄惨な“闇”。\n新たな世界を支配すべく、魔
- 王は未来を躍動する！
+DESCRIPTION:「王者归来」\n\n\n統合暦2099年――新宿市。\n
+ 究極の発展を遂げた未来都市に、伝説の魔王・ベルト
+ ールは再臨した。\n巨大都市国家の輝かしい繁栄と……
+ その裏に隠された凄惨な“闇”。\n新たな世界を支配す
+ べく、魔王は未来を躍動する！
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1509,12 +1509,12 @@ DTSTART;VALUE=DATE:20241221
 DTSTAMP;VALUE=DATE:20241221
 UID:389156-13-ethereal
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n15世纪的欧洲某国。在跳级中被允许进
- 入大学的神童拉法尔。他回应了周围的期待，宣布将专
- 攻当时最重要的神学。但是，从以前开始就热心投入的
- 对天文的热情一直没有被抛弃。\n有一天，他遇到了一位
- 名叫休伯特的神秘学者。因为触犯了基于异端思想的禁
- 忌而受到
+DESCRIPTION:「是「自由」」\n\n\n15世纪的欧洲某国。在跳级
+ 中被允许进入大学的神童拉法尔。他回应了周围的期待
+ ，宣布将专攻当时最重要的神学。但是，从以前开始就
+ 热心投入的对天文的热情一直没有被抛弃。\n有一天，他
+ 遇到了一位名叫休伯特的神秘学者。因为触犯了基于异
+ 端思想的禁忌而受到
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1852,9 +1852,10 @@ DTSTART;VALUE=DATE:20241228
 DTSTAMP;VALUE=DATE:20241221
 UID:457326-13-ethereal
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nまさしく「最終決戦」にふさわしい
- 実力派スタッフ陣で挑む、ファイナル・シリーズ。\nは
- たして、黒崎一護が\nたどり着くのは――。
+DESCRIPTION:「看得见的答案」\n\n\nまさしく「最終決戦」
+ にふさわしい実力派スタッフ陣で挑む、ファイナル・
+ シリーズ。\nはたして、黒崎一護が\nたどり着くのは―
+ ―。
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
