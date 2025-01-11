@@ -1855,12 +1855,12 @@ DTSTART;VALUE=DATE:20250111
 DTSTAMP;VALUE=DATE:20250111
 UID:389156-16-ethereal
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n15世纪的欧洲某国。在跳级中被允许进
- 入大学的神童拉法尔。他回应了周围的期待，宣布将专
- 攻当时最重要的神学。但是，从以前开始就热心投入的
- 对天文的热情一直没有被抛弃。\n有一天，他遇到了一位
- 名叫休伯特的神秘学者。因为触犯了基于异端思想的禁
- 忌而受到
+DESCRIPTION:「行动开始」\n\n\n15世纪的欧洲某国。在跳级中
+ 被允许进入大学的神童拉法尔。他回应了周围的期待，
+ 宣布将专攻当时最重要的神学。但是，从以前开始就热
+ 心投入的对天文的热情一直没有被抛弃。\n有一天，他遇
+ 到了一位名叫休伯特的神秘学者。因为触犯了基于异端
+ 思想的禁忌而受到
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2033,10 +2033,11 @@ DTSTART;VALUE=DATE:20250118
 DTSTAMP;VALUE=DATE:20250111
 UID:487630-3-ethereal
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n世界的な人気を博している、原作・
- 原案 Chugong、作画 DUBU(REDICE STUDIO)、\n脚色 h-goon(D＆C MEDIA 
- 発行)による韓国の小説、漫画作品。\n日本でも電子マ
- ンガ・ノベルサービス「ピッコマ」にて累計P
+DESCRIPTION:「还有很长的路要走」\n\n\n世界的な人気を博
+ している、原作・原案 Chugong、作画 DUBU(REDICE STUDIO)、\n
+ 脚色 h-goon(D＆C MEDIA 発行)による韓国の小説、漫画作品
+ 。\n日本でも電子マンガ・ノベルサービス「ピッコマ
+ 」にて累計P
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
