@@ -2637,12 +2637,12 @@ DTSTART;VALUE=DATE:20250129
 DTSTAMP;VALUE=DATE:20250129
 UID:485782-4-ethereal
 CLASS:PUBLIC
-DESCRIPTION:「微尘暴亚托拉泽库」\n\n\n"本物の魔王"の死後
- 、恐怖の時代は終わったかに\n見えたが、単独で世界を
- 変革しうる“最強”たちが\n新たな脅威となった。\n\n
- 黄都からの独立を宣言したリチア新公国は、\nこの力を
- もって覇権国家である黄都との\n全面戦争を開始。\n\n
- この
+DESCRIPTION:「微尘暴亚托拉泽库·前篇」\n\n\n"本物の魔王"
+ の死後、恐怖の時代は終わったかに\n見えたが、単独で
+ 世界を変革しうる“最強”たちが\n新たな脅威となった
+ 。\n\n黄都からの独立を宣言したリチア新公国は、\nこ
+ の力をもって覇権国家である黄都との\n全面戦争を開始
+ 。\n\nこの
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2652,11 +2652,12 @@ DTSTART;VALUE=DATE:20250205
 DTSTAMP;VALUE=DATE:20250129
 UID:485782-5-ethereal
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n"本物の魔王"の死後、恐怖の時代は終
- わったかに\n見えたが、単独で世界を変革しうる“最強
- ”たちが\n新たな脅威となった。\n\n黄都からの独立を
- 宣言したリチア新公国は、\nこの力をもって覇権国家で
- ある黄都との\n全面戦争を開始。\n\nこの
+DESCRIPTION:「微尘暴亚托拉泽库·后篇」\n\n\n"本物の魔王"
+ の死後、恐怖の時代は終わったかに\n見えたが、単独で
+ 世界を変革しうる“最強”たちが\n新たな脅威となった
+ 。\n\n黄都からの独立を宣言したリチア新公国は、\nこ
+ の力をもって覇権国家である黄都との\n全面戦争を開始
+ 。\n\nこの
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
