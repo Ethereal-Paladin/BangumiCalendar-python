@@ -944,12 +944,12 @@ DTSTART;VALUE=DATE:20250315
 DTSTAMP;VALUE=DATE:20250311
 UID:389156-25-ethereal
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n15世纪的欧洲某国。在跳级中被允许进
- 入大学的神童拉法尔。他回应了周围的期待，宣布将专
- 攻当时最重要的神学。但是，从以前开始就热心投入的
- 对天文的热情一直没有被抛弃。\n有一天，他遇到了一位
- 名叫休伯特的神秘学者。因为触犯了基于异端思想的禁
- 忌而受到
+DESCRIPTION:「？」\n\n\n15世纪的欧洲某国。在跳级中被允许
+ 进入大学的神童拉法尔。他回应了周围的期待，宣布将
+ 专攻当时最重要的神学。但是，从以前开始就热心投入
+ 的对天文的热情一直没有被抛弃。\n有一天，他遇到了一
+ 位名叫休伯特的神秘学者。因为触犯了基于异端思想的
+ 禁忌而受到
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2156,12 +2156,12 @@ DTSTART;VALUE=DATE:20250312
 DTSTAMP;VALUE=DATE:20250311
 UID:510728-6-ethereal
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n襲い来るエルザたちの猛攻を退け、
- 大兎との戦いでベアトリスとの契約を果たした「聖域
- 」の解放から1年が過ぎた。\n王選に臨むエミリア陣営
- は一致団結、充実した日々を送っていたナツキ・スバ
- ルだったが、平穏は使者によって届けられた一枚の書
- 状によって終
+DESCRIPTION:「特蕾西亚·梵·阿斯特雷亚」\n\n\n襲い来るエ
+ ルザたちの猛攻を退け、大兎との戦いでベアトリスと
+ の契約を果たした「聖域」の解放から1年が過ぎた。\n
+ 王選に臨むエミリア陣営は一致団結、充実した日々を
+ 送っていたナツキ・スバルだったが、平穏は使者によ
+ って届けられた一枚の書状によって終
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2347,7 +2347,7 @@ X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:群花绽放，彷如修罗 11
-DTSTART;VALUE=DATE:20250318
+DTSTART;VALUE=DATE:20250325
 DTSTAMP;VALUE=DATE:20250311
 UID:498934-11-ethereal
 CLASS:PUBLIC
@@ -2872,11 +2872,12 @@ DTSTART;VALUE=DATE:20250311
 DTSTAMP;VALUE=DATE:20250311
 UID:501205-10-ethereal
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nオスカーにかけられた呪いの解呪に
- 成功し、\n400年前から続く魔法士ラナクとの因縁にも\n
- 決着をつけたティナーシャ。\n“呼ばれぬ魔女”レオノ
- ーラとの戦いも\nオスカーと共に乗り越え、\nようやく
- 結ばれた二人は、ファルサスの\n人々に祝福さ
+DESCRIPTION:「与某时的你一起」\n\n\nオスカーにかけられ
+ た呪いの解呪に成功し、\n400年前から続く魔法士ラナク
+ との因縁にも\n決着をつけたティナーシャ。\n“呼ばれ
+ ぬ魔女”レオノーラとの戦いも\nオスカーと共に乗り越
+ え、\nようやく結ばれた二人は、ファルサスの\n人々に
+ 祝福さ
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
