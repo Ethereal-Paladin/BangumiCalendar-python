@@ -40,7 +40,7 @@ DTSTART;VALUE=DATE:20250718
 DTSTAMP;VALUE=DATE:20250712
 UID:506677-3-ethereal
 CLASS:PUBLIC
-DESCRIPTION:「塞伦蒂亚学院学生会」\n\n\n人类没有了咏唱
+DESCRIPTION:「赛莲蒂亚学园学生会」\n\n\n人类没有了咏唱
  ，就不能使用魔术。\n但是，有一个少女，把不可能变成
  了可能。\n\n利迪尔王国魔术师的巅峰七贤人之一“沉默
  的魔女”莫妮卡·埃瓦雷特。\n是史上第一个创造出无咏
@@ -465,11 +465,12 @@ DTSTART;VALUE=DATE:20250710
 DTSTAMP;VALUE=DATE:20250712
 UID:531344-1-ethereal
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n樹乃倉厳、34歳。\n独りを愛する孤高
- のキャンパーである厳は\nいつものようにソロキャンプ
- を楽しんでいた。\n\nキャンプ後に帰ろうとすると、\n
- ひょんなところから超初心者キャンパー、草野雫と遭
- 遇する。\n厳は嫌々ながらも、雫とふたりでソロ
+DESCRIPTION:「单身野营的所思所感」\n\n\n樹乃倉厳、34歳。
+ \n独りを愛する孤高のキャンパーである厳は\nいつもの
+ ようにソロキャンプを楽しんでいた。\n\nキャンプ後に
+ 帰ろうとすると、\nひょんなところから超初心者キャン
+ パー、草野雫と遭遇する。\n厳は嫌々ながらも、雫とふ
+ たりでソロ
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1511,6 +1512,48 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:夏日口袋 0
+DTSTART;VALUE=DATE:20250822
+DTSTAMP;VALUE=DATE:20250712
+UID:363957-0-ethereal
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n唯有那份眩目，未曾忘却。\n\n为了整
+ 理去世祖母的遗物，主人公鹰原羽依里利用暑假来到了
+ 鸟白岛。\n在帮忙收拾祖母的回忆之物的同时，他一边对
+ 首次接触的“岛上生活”感到困惑，一边逐渐适应。\n\n
+ 与眺望大海的少女相遇，\n与寻找不可思议蝴蝶的少
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:夏日口袋 0
+DTSTART;VALUE=DATE:20250829
+DTSTAMP;VALUE=DATE:20250712
+UID:363957-0-ethereal
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n唯有那份眩目，未曾忘却。\n\n为了整
+ 理去世祖母的遗物，主人公鹰原羽依里利用暑假来到了
+ 鸟白岛。\n在帮忙收拾祖母的回忆之物的同时，他一边对
+ 首次接触的“岛上生活”感到困惑，一边逐渐适应。\n\n
+ 与眺望大海的少女相遇，\n与寻找不可思议蝴蝶的少
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:夏日口袋 0
+DTSTART;VALUE=DATE:20250905
+DTSTAMP;VALUE=DATE:20250712
+UID:363957-0-ethereal
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n唯有那份眩目，未曾忘却。\n\n为了整
+ 理去世祖母的遗物，主人公鹰原羽依里利用暑假来到了
+ 鸟白岛。\n在帮忙收拾祖母的回忆之物的同时，他一边对
+ 首次接触的“岛上生活”感到困惑，一边逐渐适应。\n\n
+ 与眺望大海的少女相遇，\n与寻找不可思议蝴蝶的少
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:小城日常 1
 DTSTART;VALUE=DATE:20250706
 DTSTAMP;VALUE=DATE:20250712
@@ -1893,11 +1936,11 @@ DTSTART;VALUE=DATE:20250712
 DTSTAMP;VALUE=DATE:20250712
 UID:496086-2-ethereal
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nとある集落で\n幼い頃からずっと一緒
- に育ってきた\n同い年のよしきと光\n\n照りつける太陽\n
- 耳にこびりつくクマゼミの声\n帰り道に食べるアイス\n\
- n他愛もないことで笑い合う\nいつもと変わらない夏の
- ある日\n\n「……お前、やっぱ光ち
+DESCRIPTION:「疑惑」\n\n\nとある集落で\n幼い頃からずっと
+ 一緒に育ってきた\n同い年のよしきと光\n\n照りつける
+ 太陽\n耳にこびりつくクマゼミの声\n帰り道に食べるア
+ イス\n\n他愛もないことで笑い合う\nいつもと変わらな
+ い夏のある日\n\n「……お前、やっぱ光ち
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
