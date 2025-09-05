@@ -861,11 +861,12 @@ DTSTART;VALUE=DATE:20250908
 DTSTAMP;VALUE=DATE:20250905
 UID:363957-23-ethereal
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n　眩しさだけは、忘れなかった。\n\n
- 　亡くなった祖母の遺品整理のために夏休みを利用し
- て、\n　鳥白島にやってきた主人公の鷹原羽依里。\n　
- 祖母の思い出の品の片付けを手伝いながら、\n　初めて
- 触れる「島の生活」に戸惑いつつも、順応していく。
+DESCRIPTION:「七海」\n\n\n　眩しさだけは、忘れなかった
+ 。\n\n　亡くなった祖母の遺品整理のために夏休みを利
+ 用して、\n　鳥白島にやってきた主人公の鷹原羽依里。
+ \n　祖母の思い出の品の片付けを手伝いながら、\n　初
+ めて触れる「島の生活」に戸惑いつつも、順応してい
+ く。
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1690,6 +1691,20 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Silent Witch 沉默魔女的秘密 0
+DTSTART;VALUE=DATE:20250905
+DTSTAMP;VALUE=DATE:20250905
+UID:506677-0-ethereal
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n人類は詠唱をなくして、魔術を使う
+ ことができない。 \nところが、その不可能を可能にし
+ てしまった、ひとりの少女がいた。 \n\nリディル王国に
+ おける魔術師の頂点・七賢人がひとり〈沈黙の魔女〉
+ モニカ・エヴァレット。\n史上、初めて無詠唱魔術を生
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:明日方舟：焰烬曙明 1
 DTSTART;VALUE=DATE:20250704
 DTSTAMP;VALUE=DATE:20250905
@@ -1815,7 +1830,7 @@ DTSTART;VALUE=DATE:20250829
 DTSTAMP;VALUE=DATE:20250905
 UID:492199-9-ethereal
 CLASS:PUBLIC
-DESCRIPTION:「赫变」\n\n\n“她”本应该成为为感染者指引
+DESCRIPTION:「赫怒」\n\n\n“她”本应该成为为感染者指引
  方向的灯塔。但此刻，她的愤怒、她的仇恨，已经化为
  战火，将要吞噬掉普通民众。\n切尔诺伯格核心城正在向
  龙门冲撞，唯有罗德岛这个中立组织，能够阻止整合运
@@ -1830,12 +1845,12 @@ DTSTART;VALUE=DATE:20250905
 DTSTAMP;VALUE=DATE:20250905
 UID:492199-10-ethereal
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n“她”本应该成为为感染者指引方向
- 的灯塔。但此刻，她的愤怒、她的仇恨，已经化为战火
- ，将要吞噬掉普通民众。\n切尔诺伯格核心城正在向龙门
- 冲撞，唯有罗德岛这个中立组织，能够阻止整合运动的
- 暴行，以及隐藏在这场暴行背后的阴谋。\n同时，龙门近
- 卫局的陈
+DESCRIPTION:「黎明」\n\n\n“她”本应该成为为感染者指引
+ 方向的灯塔。但此刻，她的愤怒、她的仇恨，已经化为
+ 战火，将要吞噬掉普通民众。\n切尔诺伯格核心城正在向
+ 龙门冲撞，唯有罗德岛这个中立组织，能够阻止整合运
+ 动的暴行，以及隐藏在这场暴行背后的阴谋。\n同时，龙
+ 门近卫局的陈
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
