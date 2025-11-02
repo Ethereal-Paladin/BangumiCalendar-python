@@ -746,6 +746,21 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:弹珠汽水瓶里的千岁同学 0
+DTSTART;VALUE=DATE:20251031
+DTSTAMP;VALUE=DATE:20251102
+UID:507634-0-ethereal
+CLASS:PUBLIC
+DESCRIPTION:「外传#04「平常的拿铁咖啡，平常的拿铁奶茶
+ 」」\n\n\n県内随一の進学校・藤志高校に通う千歳朔。\n
+ \n勉強、運動、コミュ力すべてがハイレベルで、 良く
+ も悪くも注目を集める彼の周りには、 誰もが羨む華や
+ かな仲間たちが集っていた。\n\n新たなクラスで迎えた2
+ 年生の春。\n朔は、ひとりの引きこもり
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:明明只是暗杀者，我的面板数值却比勇者还要强 1
 DTSTART;VALUE=DATE:20251006
 DTSTAMP;VALUE=DATE:20251102
@@ -984,12 +999,12 @@ DTSTART;VALUE=DATE:20251109
 DTSTAMP;VALUE=DATE:20251102
 UID:285757-5-ethereal
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n趣味でヒーローを始めた男、サイタ
- マ。3年間の特訓により無敵のパワーを手に入れ、あら
- ゆる敵を一撃（ワンパン）で倒すヒーローである。ひ
- ょんなことから弟子となったジェノスと共にヒーロー
- 協会で正式なヒーロー活動を開始する。突如現れた怪
- 人協会に幹部の
+DESCRIPTION:「怪人的王」\n\n\n趣味でヒーローを始めた男
+ 、サイタマ。3年間の特訓により無敵のパワーを手に入
+ れ、あらゆる敵を一撃（ワンパン）で倒すヒーローで
+ ある。ひょんなことから弟子となったジェノスと共に
+ ヒーロー協会で正式なヒーロー活動を開始する。突如
+ 現れた怪人協会に幹部の
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
