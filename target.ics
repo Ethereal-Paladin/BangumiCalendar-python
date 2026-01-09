@@ -179,11 +179,11 @@ DTSTART;VALUE=DATE:20260108
 DTSTAMP;VALUE=DATE:20260109
 UID:528434-1-ethereal
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n黒い森の奥深く、\n毒キノコのお家に
- ひっそりと、\nルーナという一人の魔女が住んでいまし
- た。\n\n彼女が触れたり歩いたりしたところには\n毒キ
- ノコが生えることが多く、\n吐く息や皮膚には毒が混じ
- っています。\n街の人達は彼女を\n“シャン
+DESCRIPTION:「黑魔女露娜」\n\n\n黒い森の奥深く、\n毒キノ
+ コのお家にひっそりと、\nルーナという一人の魔女が住
+ んでいました。\n\n彼女が触れたり歩いたりしたところ
+ には\n毒キノコが生えることが多く、\n吐く息や皮膚に
+ は毒が混じっています。\n街の人達は彼女を\n“シャン
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -362,11 +362,12 @@ DTSTART;VALUE=DATE:20260114
 DTSTAMP;VALUE=DATE:20260109
 UID:510753-2-ethereal
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nこれは、とあるいかれた世界の話。\n
- \n少女《プレイヤー》たちが挑むのは、死が隣り合わせ
- のゲーム。\n生還すれば賞金を得るが、万全を尽くして
- も命を落とすことがある。\n\nそんな世界で、生きてい
- く。\nこの世にはそういう人間たちが確かにいる
+DESCRIPTION:「Chains of ----」\n\n\nこれは、とあるいかれた世
+ 界の話。\n\n少女《プレイヤー》たちが挑むのは、死が
+ 隣り合わせのゲーム。\n生還すれば賞金を得るが、万全
+ を尽くしても命を落とすことがある。\n\nそんな世界で
+ 、生きていく。\nこの世にはそういう人間たちが確かに
+ いる
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
