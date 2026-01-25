@@ -5,6 +5,188 @@ X-APPLE-CALENDAR-COLOR:#F699C
 X-WR-CALNAME:新番日历
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
+SUMMARY:Fate/strange Fake 1
+DTSTART;VALUE=DATE:20260103
+DTSTAMP;VALUE=DATE:20260125
+UID:443831-1-ethereal
+CLASS:PUBLIC
+DESCRIPTION:「英灵事件」\n\n\n魔术师〈Master〉与英灵〈Serva
+ nt〉为了争夺能实现一切愿望的愿望机「圣杯」，而彼此
+ 厮杀——这便是「圣杯战争」。\n\n在日本进行的第五次
+ 圣杯战争落下帷幕的几年之后。\n在美利坚合众国西部的
+ 城市——雪原市（Snowfield），观测
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fate/strange Fake 2
+DTSTART;VALUE=DATE:20260110
+DTSTAMP;VALUE=DATE:20260125
+UID:443831-2-ethereal
+CLASS:PUBLIC
+DESCRIPTION:「群像VS虚像」\n\n\n魔术师〈Master〉与英灵〈Ser
+ vant〉为了争夺能实现一切愿望的愿望机「圣杯」，而彼
+ 此厮杀——这便是「圣杯战争」。\n\n在日本进行的第五
+ 次圣杯战争落下帷幕的几年之后。\n在美利坚合众国西部
+ 的城市——雪原市（Snowfield），观测
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fate/strange Fake 3
+DTSTART;VALUE=DATE:20260117
+DTSTAMP;VALUE=DATE:20260125
+UID:443831-3-ethereal
+CLASS:PUBLIC
+DESCRIPTION:「缺少英灵的战斗」\n\n\n魔术师〈Master〉与英
+ 灵〈Servant〉为了争夺能实现一切愿望的愿望机「圣杯」
+ ，而彼此厮杀——这便是「圣杯战争」。\n\n在日本进行
+ 的第五次圣杯战争落下帷幕的几年之后。\n在美利坚合众
+ 国西部的城市——雪原市（Snowfield），观测
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fate/strange Fake 4
+DTSTART;VALUE=DATE:20260124
+DTSTAMP;VALUE=DATE:20260125
+UID:443831-4-ethereal
+CLASS:PUBLIC
+DESCRIPTION:「半神们的卡农曲」\n\n\n魔术师〈Master〉与英
+ 灵〈Servant〉为了争夺能实现一切愿望的愿望机「圣杯」
+ ，而彼此厮杀——这便是「圣杯战争」。\n\n在日本进行
+ 的第五次圣杯战争落下帷幕的几年之后。\n在美利坚合众
+ 国西部的城市——雪原市（Snowfield），观测
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fate/strange Fake 5
+DTSTART;VALUE=DATE:20260131
+DTSTAMP;VALUE=DATE:20260125
+UID:443831-5-ethereal
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n魔术师〈Master〉与英灵〈Servant〉为了
+ 争夺能实现一切愿望的愿望机「圣杯」，而彼此厮杀—
+ —这便是「圣杯战争」。\n\n在日本进行的第五次圣杯战
+ 争落下帷幕的几年之后。\n在美利坚合众国西部的城市—
+ —雪原市（Snowfield），观测
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fate/strange Fake 6
+DTSTART;VALUE=DATE:20260207
+DTSTAMP;VALUE=DATE:20260125
+UID:443831-6-ethereal
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n魔术师〈Master〉与英灵〈Servant〉为了
+ 争夺能实现一切愿望的愿望机「圣杯」，而彼此厮杀—
+ —这便是「圣杯战争」。\n\n在日本进行的第五次圣杯战
+ 争落下帷幕的几年之后。\n在美利坚合众国西部的城市—
+ —雪原市（Snowfield），观测
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fate/strange Fake 7
+DTSTART;VALUE=DATE:20260214
+DTSTAMP;VALUE=DATE:20260125
+UID:443831-7-ethereal
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n魔术师〈Master〉与英灵〈Servant〉为了
+ 争夺能实现一切愿望的愿望机「圣杯」，而彼此厮杀—
+ —这便是「圣杯战争」。\n\n在日本进行的第五次圣杯战
+ 争落下帷幕的几年之后。\n在美利坚合众国西部的城市—
+ —雪原市（Snowfield），观测
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fate/strange Fake 8
+DTSTART;VALUE=DATE:20260221
+DTSTAMP;VALUE=DATE:20260125
+UID:443831-8-ethereal
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n魔术师〈Master〉与英灵〈Servant〉为了
+ 争夺能实现一切愿望的愿望机「圣杯」，而彼此厮杀—
+ —这便是「圣杯战争」。\n\n在日本进行的第五次圣杯战
+ 争落下帷幕的几年之后。\n在美利坚合众国西部的城市—
+ —雪原市（Snowfield），观测
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fate/strange Fake 9
+DTSTART;VALUE=DATE:20260228
+DTSTAMP;VALUE=DATE:20260125
+UID:443831-9-ethereal
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n魔术师〈Master〉与英灵〈Servant〉为了
+ 争夺能实现一切愿望的愿望机「圣杯」，而彼此厮杀—
+ —这便是「圣杯战争」。\n\n在日本进行的第五次圣杯战
+ 争落下帷幕的几年之后。\n在美利坚合众国西部的城市—
+ —雪原市（Snowfield），观测
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fate/strange Fake 10
+DTSTART;VALUE=DATE:20260307
+DTSTAMP;VALUE=DATE:20260125
+UID:443831-10-ethereal
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n魔术师〈Master〉与英灵〈Servant〉为了
+ 争夺能实现一切愿望的愿望机「圣杯」，而彼此厮杀—
+ —这便是「圣杯战争」。\n\n在日本进行的第五次圣杯战
+ 争落下帷幕的几年之后。\n在美利坚合众国西部的城市—
+ —雪原市（Snowfield），观测
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fate/strange Fake 11
+DTSTART;VALUE=DATE:20260314
+DTSTAMP;VALUE=DATE:20260125
+UID:443831-11-ethereal
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n魔术师〈Master〉与英灵〈Servant〉为了
+ 争夺能实现一切愿望的愿望机「圣杯」，而彼此厮杀—
+ —这便是「圣杯战争」。\n\n在日本进行的第五次圣杯战
+ 争落下帷幕的几年之后。\n在美利坚合众国西部的城市—
+ —雪原市（Snowfield），观测
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fate/strange Fake 12
+DTSTART;VALUE=DATE:20260321
+DTSTAMP;VALUE=DATE:20260125
+UID:443831-12-ethereal
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n魔术师〈Master〉与英灵〈Servant〉为了
+ 争夺能实现一切愿望的愿望机「圣杯」，而彼此厮杀—
+ —这便是「圣杯战争」。\n\n在日本进行的第五次圣杯战
+ 争落下帷幕的几年之后。\n在美利坚合众国西部的城市—
+ —雪原市（Snowfield），观测
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fate/strange Fake 13
+DTSTART;VALUE=DATE:20260328
+DTSTAMP;VALUE=DATE:20260125
+UID:443831-13-ethereal
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n魔术师〈Master〉与英灵〈Servant〉为了
+ 争夺能实现一切愿望的愿望机「圣杯」，而彼此厮杀—
+ —这便是「圣杯战争」。\n\n在日本进行的第五次圣杯战
+ 争落下帷幕的几年之后。\n在美利坚合众国西部的城市—
+ —雪原市（Snowfield），观测
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:葬送的芙莉莲 第二季 1
 DTSTART;VALUE=DATE:20260116
 DTSTAMP;VALUE=DATE:20260125
@@ -1372,12 +1554,12 @@ DTSTART;VALUE=DATE:20260125
 DTSTAMP;VALUE=DATE:20260125
 UID:525565-3-ethereal
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nいつも元気いっぱいだけど周りの目
- を気にしてしまう女子・鈴木と、\n物静かだけど自分の
- 意見をしっかり言える男子・谷。\n正反対な二人が誤解
- や勘違いをしながらもお互いを尊重し、\nゆっくりと理
- 解を深めていく姿と、友人たちとの学校生活を描くラ
- ブコ
+DESCRIPTION:「可爱与帅气」\n\n\nいつも元気いっぱいだけ
+ ど周りの目を気にしてしまう女子・鈴木と、\n物静かだ
+ けど自分の意見をしっかり言える男子・谷。\n正反対な
+ 二人が誤解や勘違いをしながらもお互いを尊重し、\nゆ
+ っくりと理解を深めていく姿と、友人たちとの学校生
+ 活を描くラブコ
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1565,11 +1747,11 @@ DTSTART;VALUE=DATE:20260125
 DTSTAMP;VALUE=DATE:20260125
 UID:493016-4-ethereal
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n人見知りの小説家・高代槙生は、\n姉
- 夫婦の葬式で両親を亡くした姪の田汲朝を、\n勢いで引
- き取ることになる。\n思いがけずはじまった同居生活に
- よって、\nそれまで静かだった槙生の日常は一変。\n他
- 人と暮らすことに不慣れな性格のため、\n15歳
+DESCRIPTION:「紧张」\n\n\n人見知りの小説家・高代槙生は
+ 、\n姉夫婦の葬式で両親を亡くした姪の田汲朝を、\n勢
+ いで引き取ることになる。\n思いがけずはじまった同居
+ 生活によって、\nそれまで静かだった槙生の日常は一変
+ 。\n他人と暮らすことに不慣れな性格のため、\n15歳
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1579,11 +1761,11 @@ DTSTART;VALUE=DATE:20260201
 DTSTAMP;VALUE=DATE:20260125
 UID:493016-5-ethereal
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n人見知りの小説家・高代槙生は、\n姉
- 夫婦の葬式で両親を亡くした姪の田汲朝を、\n勢いで引
- き取ることになる。\n思いがけずはじまった同居生活に
- よって、\nそれまで静かだった槙生の日常は一変。\n他
- 人と暮らすことに不慣れな性格のため、\n15歳
+DESCRIPTION:「选择」\n\n\n人見知りの小説家・高代槙生は
+ 、\n姉夫婦の葬式で両親を亡くした姪の田汲朝を、\n勢
+ いで引き取ることになる。\n思いがけずはじまった同居
+ 生活によって、\nそれまで静かだった槙生の日常は一変
+ 。\n他人と暮らすことに不慣れな性格のため、\n15歳
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1696,188 +1878,6 @@ DESCRIPTION:「」\n\n\n人見知りの小説家・高代槙生は、\n姉
  き取ることになる。\n思いがけずはじまった同居生活に
  よって、\nそれまで静かだった槙生の日常は一変。\n他
  人と暮らすことに不慣れな性格のため、\n15歳
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fate/strange Fake 1
-DTSTART;VALUE=DATE:20260103
-DTSTAMP;VALUE=DATE:20260125
-UID:443831-1-ethereal
-CLASS:PUBLIC
-DESCRIPTION:「英灵事件」\n\n\n魔术师〈Master〉与英灵〈Serva
- nt〉为了争夺能实现一切愿望的愿望机「圣杯」，而彼此
- 厮杀——这便是「圣杯战争」。\n\n在日本进行的第五次
- 圣杯战争落下帷幕的几年之后。\n在美利坚合众国西部的
- 城市——雪原市（Snowfield），观测
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fate/strange Fake 2
-DTSTART;VALUE=DATE:20260110
-DTSTAMP;VALUE=DATE:20260125
-UID:443831-2-ethereal
-CLASS:PUBLIC
-DESCRIPTION:「群像VS虚像」\n\n\n魔术师〈Master〉与英灵〈Ser
- vant〉为了争夺能实现一切愿望的愿望机「圣杯」，而彼
- 此厮杀——这便是「圣杯战争」。\n\n在日本进行的第五
- 次圣杯战争落下帷幕的几年之后。\n在美利坚合众国西部
- 的城市——雪原市（Snowfield），观测
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fate/strange Fake 3
-DTSTART;VALUE=DATE:20260117
-DTSTAMP;VALUE=DATE:20260125
-UID:443831-3-ethereal
-CLASS:PUBLIC
-DESCRIPTION:「缺少英灵的战斗」\n\n\n魔术师〈Master〉与英
- 灵〈Servant〉为了争夺能实现一切愿望的愿望机「圣杯」
- ，而彼此厮杀——这便是「圣杯战争」。\n\n在日本进行
- 的第五次圣杯战争落下帷幕的几年之后。\n在美利坚合众
- 国西部的城市——雪原市（Snowfield），观测
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fate/strange Fake 4
-DTSTART;VALUE=DATE:20260124
-DTSTAMP;VALUE=DATE:20260125
-UID:443831-4-ethereal
-CLASS:PUBLIC
-DESCRIPTION:「半神们的卡农曲」\n\n\n魔术师〈Master〉与英
- 灵〈Servant〉为了争夺能实现一切愿望的愿望机「圣杯」
- ，而彼此厮杀——这便是「圣杯战争」。\n\n在日本进行
- 的第五次圣杯战争落下帷幕的几年之后。\n在美利坚合众
- 国西部的城市——雪原市（Snowfield），观测
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fate/strange Fake 5
-DTSTART;VALUE=DATE:20260131
-DTSTAMP;VALUE=DATE:20260125
-UID:443831-5-ethereal
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n魔术师〈Master〉与英灵〈Servant〉为了
- 争夺能实现一切愿望的愿望机「圣杯」，而彼此厮杀—
- —这便是「圣杯战争」。\n\n在日本进行的第五次圣杯战
- 争落下帷幕的几年之后。\n在美利坚合众国西部的城市—
- —雪原市（Snowfield），观测
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fate/strange Fake 6
-DTSTART;VALUE=DATE:20260207
-DTSTAMP;VALUE=DATE:20260125
-UID:443831-6-ethereal
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n魔术师〈Master〉与英灵〈Servant〉为了
- 争夺能实现一切愿望的愿望机「圣杯」，而彼此厮杀—
- —这便是「圣杯战争」。\n\n在日本进行的第五次圣杯战
- 争落下帷幕的几年之后。\n在美利坚合众国西部的城市—
- —雪原市（Snowfield），观测
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fate/strange Fake 7
-DTSTART;VALUE=DATE:20260214
-DTSTAMP;VALUE=DATE:20260125
-UID:443831-7-ethereal
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n魔术师〈Master〉与英灵〈Servant〉为了
- 争夺能实现一切愿望的愿望机「圣杯」，而彼此厮杀—
- —这便是「圣杯战争」。\n\n在日本进行的第五次圣杯战
- 争落下帷幕的几年之后。\n在美利坚合众国西部的城市—
- —雪原市（Snowfield），观测
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fate/strange Fake 8
-DTSTART;VALUE=DATE:20260221
-DTSTAMP;VALUE=DATE:20260125
-UID:443831-8-ethereal
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n魔术师〈Master〉与英灵〈Servant〉为了
- 争夺能实现一切愿望的愿望机「圣杯」，而彼此厮杀—
- —这便是「圣杯战争」。\n\n在日本进行的第五次圣杯战
- 争落下帷幕的几年之后。\n在美利坚合众国西部的城市—
- —雪原市（Snowfield），观测
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fate/strange Fake 9
-DTSTART;VALUE=DATE:20260228
-DTSTAMP;VALUE=DATE:20260125
-UID:443831-9-ethereal
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n魔术师〈Master〉与英灵〈Servant〉为了
- 争夺能实现一切愿望的愿望机「圣杯」，而彼此厮杀—
- —这便是「圣杯战争」。\n\n在日本进行的第五次圣杯战
- 争落下帷幕的几年之后。\n在美利坚合众国西部的城市—
- —雪原市（Snowfield），观测
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fate/strange Fake 10
-DTSTART;VALUE=DATE:20260307
-DTSTAMP;VALUE=DATE:20260125
-UID:443831-10-ethereal
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n魔术师〈Master〉与英灵〈Servant〉为了
- 争夺能实现一切愿望的愿望机「圣杯」，而彼此厮杀—
- —这便是「圣杯战争」。\n\n在日本进行的第五次圣杯战
- 争落下帷幕的几年之后。\n在美利坚合众国西部的城市—
- —雪原市（Snowfield），观测
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fate/strange Fake 11
-DTSTART;VALUE=DATE:20260314
-DTSTAMP;VALUE=DATE:20260125
-UID:443831-11-ethereal
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n魔术师〈Master〉与英灵〈Servant〉为了
- 争夺能实现一切愿望的愿望机「圣杯」，而彼此厮杀—
- —这便是「圣杯战争」。\n\n在日本进行的第五次圣杯战
- 争落下帷幕的几年之后。\n在美利坚合众国西部的城市—
- —雪原市（Snowfield），观测
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fate/strange Fake 12
-DTSTART;VALUE=DATE:20260321
-DTSTAMP;VALUE=DATE:20260125
-UID:443831-12-ethereal
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n魔术师〈Master〉与英灵〈Servant〉为了
- 争夺能实现一切愿望的愿望机「圣杯」，而彼此厮杀—
- —这便是「圣杯战争」。\n\n在日本进行的第五次圣杯战
- 争落下帷幕的几年之后。\n在美利坚合众国西部的城市—
- —雪原市（Snowfield），观测
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fate/strange Fake 13
-DTSTART;VALUE=DATE:20260328
-DTSTAMP;VALUE=DATE:20260125
-UID:443831-13-ethereal
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n魔术师〈Master〉与英灵〈Servant〉为了
- 争夺能实现一切愿望的愿望机「圣杯」，而彼此厮杀—
- —这便是「圣杯战争」。\n\n在日本进行的第五次圣杯战
- 争落下帷幕的几年之后。\n在美利坚合众国西部的城市—
- —雪原市（Snowfield），观测
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
